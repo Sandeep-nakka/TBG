@@ -1,0 +1,7 @@
+TBG\Collaterate\Utils\ExtentReport.class
+TBG\Collaterate\Utils\ExtentReportListner.class
+com\qa\tbg\base\BaseTest.class
+TBG\Collaterate\Utils\Log.class
+com\qa\tbg\base\BasePage.class
+TBG\Collaterate\Utils\ReadYamlConfig.class
+TBG\Collaterate\Utils\ElementActions.class
