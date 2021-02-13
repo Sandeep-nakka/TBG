@@ -10,7 +10,7 @@ public class ExtentReport {
 	
 	public static ExtentReports ExtentreportGenerator() {
 		
-		String Path=System.getProperty("user.dir")+"//Reports//index.html";
+		String Path=System.getProperty("user.dir")+"/Reports/index.html";
 		ExtentSparkReporter reporter =new ExtentSparkReporter(Path);
 		reporter.config().setDocumentTitle("API Automation Results");
 		reporter.config().setTheme(Theme.DARK);
@@ -23,9 +23,7 @@ public class ExtentReport {
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("OS", System.getProperty("os.name"));
 		extent.setSystemInfo("Tester", "Jenkin User");
-		
-		
-		
+
 		return extent;
 	}
 }

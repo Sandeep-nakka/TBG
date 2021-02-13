@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="classes">
+    <listeners>
+        <listener class-name="TBG.Collaterate.Utils.ExtentReportListner"></listener>
+    </listeners>
+    <test thread-count="5" name="Collaterate/src/test/java/TBG/Collaterate">
+            <classes>
+                <class name="TBG.Collaterate.LoginPage"/>
+        </classes>
+    </test>
+</suite>
