@@ -12,8 +12,8 @@ public class Log {
     public static void initLogCfg() {
         String rootPath = System.getProperty("user.dir");
         PropertyConfigurator.configure(rootPath + File.separator +
-            "src/main/java/TBG/Collaterate/Utils/log4j.xml");
-        log = Logger.getLogger("tracelog");
+            "src/main/java/TBG/Collaterate/Utils/log4j.properties");
+        log = Logger.getLogger("TraceLog");
     }
 
     public static void debug(String msg) {

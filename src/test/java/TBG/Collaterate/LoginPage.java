@@ -17,7 +17,13 @@ public class LoginPage extends BasePage {
     }
     @Test
     public void Test(){
+
         Log.info("Testing");
+        Log.info("Testing2");
+        Log.info("Testing2");
+        Log.info("Testing2");
+        Log.info("Testing2");
+        Log.info("Testing2");
     }
 
     @AfterTest

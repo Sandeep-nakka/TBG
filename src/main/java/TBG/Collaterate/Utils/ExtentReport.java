@@ -12,10 +12,10 @@ public class ExtentReport {
 		
 		String Path=System.getProperty("user.dir")+"/Reports/index.html";
 		ExtentSparkReporter reporter =new ExtentSparkReporter(Path);
-		reporter.config().setDocumentTitle("API Automation Results");
+		reporter.config().setDocumentTitle("TBG Automation Results");
 		reporter.config().setTheme(Theme.DARK);
 		reporter.config().setTimeStampFormat("MMM dd, yyyy HH:mm:ss");
-		reporter.config().setReportName("Functional Testing");
+		reporter.config().setReportName("Collaterate Automation Tests");
 		reporter.config().setEncoding("utf-8");
 		reporter.config().setCss("css-string");
 		
