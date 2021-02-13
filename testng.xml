@@ -6,7 +6,7 @@
     </listeners>
     <test thread-count="5" name="Collaterate/src/test/java/TBG/Collaterate">
             <classes>
-                <class name="TBG.Collaterate.LoginPage"/>
+                <class name="LoginPage"/>
         </classes>
     </test>
 </suite>

@@ -14,17 +14,18 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.testng.annotations.AfterClass;
 
 public class BasePage {
 	
 
 		public WebDriver driver;
 		public static String browserName;
-		
-		 
+
+
 		public WebDriver init_driver() {
 			browserName= ReadYamlConfig.getbrowser();
-			Log.info(browserName);
+			Log.info("Executing the Test case in-- "+ browserName.toUpperCase()+" --browser");
 			if (browserName.equalsIgnoreCase("chrome")) {
 				WebDriverManager.chromedriver().setup();
 				driver= new ChromeDriver();
@@ -35,24 +36,30 @@ public class BasePage {
 				WebDriverManager.edgedriver().setup();
 				
 			} else {
-				Log.info(browserName + " is not found, please pass the right browser Name");
+				Log.info(browserName + " not found, please pass the right browser Name");
 			}
-
+			Log.info("Maximizing the Window");
 			driver.manage().window().maximize();
 			driver.manage().deleteAllCookies();
+			Log.info("Opening the URL: "+ReadYamlConfig.geturl());
 			driver.get(ReadYamlConfig.geturl());
 			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 			return driver;
 
 		}
-	public String getScreenShotPath(String testCaseName,WebDriver driver) throws IOException {
+
+	public String getScreenShotPath(String testCaseName, WebDriver driver) throws IOException {
 		TakesScreenshot ts=(TakesScreenshot) driver;
 		File source =ts.getScreenshotAs(OutputType.FILE);
 		String destinationFile = System.getProperty("user.dir")+"/reports/"+testCaseName+".png";
 		FileUtils.copyFile(source,new File(destinationFile));
 		return destinationFile;
-
-
 	}
+	@AfterClass
+	public void closebrowser(){
+			Log.info("Closing the Browser");
+		driver.close();
+	}
+
 		
 }

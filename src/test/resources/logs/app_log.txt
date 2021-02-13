@@ -1,8 +1,1 @@
-INFO    2021-02-13 21:55:01,816 [TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1] TraceLog  - Testing2
-2021-02-13 22:01:22 (Log.java:33)  chrome
-2021-02-13 22:01:27 (Log.java:33)  Testing
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
+

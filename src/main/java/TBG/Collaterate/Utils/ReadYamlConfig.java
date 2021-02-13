@@ -37,6 +37,11 @@ public class ReadYamlConfig {
 	public static String geturl(){
 		return getConfig().get("url");
 	}
+	public static String getEmail(){
+		return getConfig().get("email");
+	}
+	public static String getPassword(){
+		return getConfig().get("password");}
 		
 }
 

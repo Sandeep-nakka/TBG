@@ -1,1 +1,28 @@
 INFO    2021-02-13 21:55:01,816 [TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1] TraceLog  - Testing2
+2021-02-13 22:01:22 (Log.java:33)  chrome
+2021-02-13 22:01:27 (Log.java:33)  Testing
+2021-02-13 22:01:27 (Log.java:33)  Testing2
+2021-02-13 22:01:27 (Log.java:33)  Testing2
+2021-02-13 22:01:27 (Log.java:33)  Testing2
+2021-02-13 22:01:27 (Log.java:33)  Testing2
+2021-02-13 22:01:27 (Log.java:33)  Testing2
+2021-02-13 22:20:11 (Log.java:33)  chrome
+2021-02-13 22:24:30 (Log.java:33)  chrome
+2021-02-13 22:24:35 (Log.java:33)  chrome
+2021-02-13 22:33:12 (Log.java:33)  Executing the Test cases in --chrome --browser
+2021-02-13 22:33:15 (Log.java:33)  Maximizing the Window
+2021-02-13 22:33:15 (Log.java:33)  Opening the URL: http://www.google.com
+2021-02-13 22:33:16 (Log.java:33)  http://www.google.com/
+2021-02-13 22:33:16 (Log.java:33)  Testing
+2021-02-13 22:33:16 (Log.java:33)  Testing2
+2021-02-13 22:33:16 (Log.java:33)  Testing2
+2021-02-13 22:33:16 (Log.java:33)  Testing2
+2021-02-13 22:33:16 (Log.java:33)  Testing2
+2021-02-13 22:33:16 (Log.java:33)  Testing2
+2021-02-13 22:33:16 (Log.java:33)  Closing the Browser
+2021-02-13 22:38:25 (Log.java:33)  TBG.Collaterate.LoginPage
+2021-02-13 22:38:25 (Log.java:33)  Executing the Test cases in --chrome --browser
+2021-02-13 22:38:28 (Log.java:33)  Maximizing the Window
+2021-02-13 22:38:29 (Log.java:33)  Opening the URL: http://www.google.com
+2021-02-13 22:38:29 (Log.java:33)  http://www.google.com/
+2021-02-13 22:38:30 (Log.java:33)  Closing the Browser
