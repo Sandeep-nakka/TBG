@@ -2,6 +2,7 @@ package com.qa.tbg.base;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 import TBG.Collaterate.Utils.Log;
@@ -21,6 +22,7 @@ public class BasePage {
 
 		public WebDriver driver;
 		public static String browserName;
+		public static String screenshotName;
 
 
 		public WebDriver init_driver() {
@@ -51,7 +53,9 @@ public class BasePage {
 	public String getScreenShotPath(String testCaseName, WebDriver driver) throws IOException {
 		TakesScreenshot ts=(TakesScreenshot) driver;
 		File source =ts.getScreenshotAs(OutputType.FILE);
-		String destinationFile = System.getProperty("user.dir")+"/reports/"+testCaseName+".png";
+		Date d = new Date();
+		screenshotName = testCaseName+"_"+d.toString().replace(":", "_").replace(" ", "_") + ".jpg";
+		String destinationFile = System.getProperty("user.dir")+"/reports/"+screenshotName;
 		FileUtils.copyFile(source,new File(destinationFile));
 		return destinationFile;
 	}

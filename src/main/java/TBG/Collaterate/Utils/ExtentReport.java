@@ -4,13 +4,16 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
+import java.util.Date;
+
 public class ExtentReport {
 	
 	static ExtentReports extent;
 	
 	public static ExtentReports ExtentreportGenerator() {
-		
-		String Path=System.getProperty("user.dir")+"/Reports/index.html";
+		Date d = new Date();
+		String fileName = "Extent_" + d.toString().replace(":", "_").replace(" ", "_") + ".html";
+		String Path=System.getProperty("user.dir")+"/Reports/"+fileName;
 		ExtentSparkReporter reporter =new ExtentSparkReporter(Path);
 		reporter.config().setDocumentTitle("TBG Automation Results");
 		reporter.config().setTheme(Theme.DARK);
@@ -22,6 +25,7 @@ public class ExtentReport {
 		extent=new ExtentReports();
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("OS", System.getProperty("os.name"));
+		extent.setSystemInfo("Organization", "The Bernard Group");
 		extent.setSystemInfo("Tester", "Jenkin User");
 
 		return extent;
