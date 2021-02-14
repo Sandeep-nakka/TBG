@@ -14,7 +14,7 @@ public class TC_6_Edgewood_ImpersonateUser extends BasePage {
     LoginPage loginPage;
     HomePage homepage;
     @Test
-    public void SearchUser_Edgewood() throws InterruptedException {
+    public void Edgewood_ImpersonateUser() throws InterruptedException {
         driver=init_driver();
         loginPage=new LoginPage(driver);
         Log.info("Executing : "+this.getClass().getName());

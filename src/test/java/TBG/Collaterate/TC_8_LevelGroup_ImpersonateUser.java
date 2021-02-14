@@ -14,7 +14,7 @@ public class TC_8_LevelGroup_ImpersonateUser extends BasePage {
     LoginPage loginPage;
     HomePage homepage;
     @Test
-    public void SearchUser_Edgewood() throws InterruptedException {
+    public void LevelGroup_ImpersonateUser() throws InterruptedException {
         driver=init_driver();
         loginPage=new LoginPage(driver);
         Log.info("Executing : "+this.getClass().getName());
