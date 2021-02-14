@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite" parallel="classes">
+<suite name="All Test Suite">
     <listeners>
         <listener class-name="TBG.Collaterate.Utils.ExtentReportListner"></listener>
     </listeners>
     <test thread-count="5" name="Collaterate/src/test/java/TBG/Collaterate">
             <classes>
-                <class name="LoginPage"/>
+                <class name="TBG.Collaterate.LoginPageTest"/>
+                <class name="TBG.Collaterate.TC_5_SearchUser_Edgewood"/>
+                <class name="TBG.Collaterate.TC_6_Edgewood_ImpersonateUser"/>
+                <class name="TBG.Collaterate.TC_7_SearchUser_LevelGroup"/>
+                <class name="TBG.Collaterate.TC_8_LevelGroup_ImpersonateUser"/>
         </classes>
     </test>
 </suite>

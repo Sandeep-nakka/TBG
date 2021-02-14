@@ -1,28 +1,278 @@
-INFO    2021-02-13 21:55:01,816 [TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1] TraceLog  - Testing2
-2021-02-13 22:01:22 (Log.java:33)  chrome
-2021-02-13 22:01:27 (Log.java:33)  Testing
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:01:27 (Log.java:33)  Testing2
-2021-02-13 22:20:11 (Log.java:33)  chrome
-2021-02-13 22:24:30 (Log.java:33)  chrome
-2021-02-13 22:24:35 (Log.java:33)  chrome
-2021-02-13 22:33:12 (Log.java:33)  Executing the Test cases in --chrome --browser
-2021-02-13 22:33:15 (Log.java:33)  Maximizing the Window
-2021-02-13 22:33:15 (Log.java:33)  Opening the URL: http://www.google.com
-2021-02-13 22:33:16 (Log.java:33)  http://www.google.com/
-2021-02-13 22:33:16 (Log.java:33)  Testing
-2021-02-13 22:33:16 (Log.java:33)  Testing2
-2021-02-13 22:33:16 (Log.java:33)  Testing2
-2021-02-13 22:33:16 (Log.java:33)  Testing2
-2021-02-13 22:33:16 (Log.java:33)  Testing2
-2021-02-13 22:33:16 (Log.java:33)  Testing2
-2021-02-13 22:33:16 (Log.java:33)  Closing the Browser
-2021-02-13 22:38:25 (Log.java:33)  TBG.Collaterate.LoginPage
-2021-02-13 22:38:25 (Log.java:33)  Executing the Test cases in --chrome --browser
-2021-02-13 22:38:28 (Log.java:33)  Maximizing the Window
-2021-02-13 22:38:29 (Log.java:33)  Opening the URL: http://www.google.com
-2021-02-13 22:38:29 (Log.java:33)  http://www.google.com/
-2021-02-13 22:38:30 (Log.java:33)  Closing the Browser
+
+2021-02-13 23:01:22 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-13 23:01:26 (Log.java:33)  Maximizing the Window
+2021-02-13 23:01:27 (Log.java:33)  Opening the URL: http://www.google.com
+2021-02-13 23:01:28 (Log.java:33)  Testing
+2021-02-13 23:01:49 (Log.java:33)  Closing the Browser
+2021-02-13 23:03:15 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-13 23:03:18 (Log.java:33)  Maximizing the Window
+2021-02-13 23:03:19 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-13 23:03:22 (Log.java:33)  Testing
+2021-02-13 23:03:22 (Log.java:33)  Closing the Browser
+2021-02-14 09:21:18 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 09:21:24 (Log.java:33)  Maximizing the Window
+2021-02-14 09:21:24 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 09:23:21 (Log.java:33)  Closing the Browser
+2021-02-14 09:25:17 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 09:25:21 (Log.java:33)  Maximizing the Window
+2021-02-14 09:25:21 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 09:25:27 (Log.java:33)  Closing the Browser
+2021-02-14 09:57:07 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 09:57:11 (Log.java:33)  Maximizing the Window
+2021-02-14 09:57:11 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 09:57:19 (Log.java:33)  Closing the Browser
+2021-02-14 09:58:32 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 09:58:36 (Log.java:33)  Maximizing the Window
+2021-02-14 09:58:36 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 09:58:43 (Log.java:33)  Closing the Browser
+2021-02-14 10:00:23 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 10:00:26 (Log.java:33)  Maximizing the Window
+2021-02-14 10:00:26 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 10:00:33 (Log.java:33)  Closing the Browser
+2021-02-14 10:01:05 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 10:01:10 (Log.java:33)  Maximizing the Window
+2021-02-14 10:01:10 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 10:02:34 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 10:02:37 (Log.java:33)  Maximizing the Window
+2021-02-14 10:02:38 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 10:02:45 (Log.java:33)  Closing the Browser
+2021-02-14 10:07:21 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 10:07:24 (Log.java:33)  Maximizing the Window
+2021-02-14 10:07:24 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 10:07:31 (Log.java:33)  Closing the Browser
+2021-02-14 10:20:35 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 10:20:38 (Log.java:33)  Maximizing the Window
+2021-02-14 10:20:38 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 10:20:42 (Log.java:33)  Closing the Browser
+2021-02-14 10:25:41 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 10:25:44 (Log.java:33)  Maximizing the Window
+2021-02-14 10:25:44 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 10:25:48 (Log.java:33)  Closing the Browser
+2021-02-14 12:13:43 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:13:47 (Log.java:33)  Maximizing the Window
+2021-02-14 12:13:47 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:13:51 (Log.java:33)  Executing : TBG.Collaterate.TC_5_SearchUser_Edgewood
+2021-02-14 12:14:01 (Log.java:33)  Closing the Browser
+2021-02-14 12:39:36 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:39:40 (Log.java:33)  Maximizing the Window
+2021-02-14 12:39:40 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:39:44 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:39:47 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:39:47 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:39:48 (Log.java:33)  Clicking on Users
+2021-02-14 12:39:51 (Log.java:33)  Searching user by Username
+2021-02-14 12:39:52 (Log.java:33)  Switching to next tab
+2021-02-14 12:39:53 (Log.java:33)  Closing the Browser
+2021-02-14 12:40:35 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:40:39 (Log.java:33)  Maximizing the Window
+2021-02-14 12:40:39 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:40:43 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:40:51 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:40:51 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:40:53 (Log.java:33)  Clicking on Users
+2021-02-14 12:40:55 (Log.java:33)  Searching user by Username
+2021-02-14 12:40:56 (Log.java:33)  Switching to next tab
+2021-02-14 12:41:56 (Log.java:33)  Closing the Browser
+2021-02-14 12:42:16 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:42:20 (Log.java:33)  Maximizing the Window
+2021-02-14 12:42:20 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:42:24 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:42:26 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:42:26 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:42:27 (Log.java:33)  Clicking on Users
+2021-02-14 12:42:31 (Log.java:33)  Searching user by Username
+2021-02-14 12:42:33 (Log.java:33)  Closing the Browser
+2021-02-14 12:49:07 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:49:11 (Log.java:33)  Maximizing the Window
+2021-02-14 12:49:12 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:49:15 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:49:17 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:49:17 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:49:18 (Log.java:33)  Clicking on Users
+2021-02-14 12:49:22 (Log.java:33)  Searching user by Username
+2021-02-14 12:49:54 (Log.java:33)  Switching to next tab
+2021-02-14 12:50:22 (Log.java:33)  Closing the Browser
+2021-02-14 12:51:13 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:51:18 (Log.java:33)  Maximizing the Window
+2021-02-14 12:51:18 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:51:23 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:51:26 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:51:26 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:51:27 (Log.java:33)  Clicking on Users
+2021-02-14 12:51:31 (Log.java:33)  Searching user by Username
+2021-02-14 12:51:32 (Log.java:33)  Switching to next tab
+2021-02-14 12:53:41 (Log.java:33)  Closing the Browser
+2021-02-14 12:54:07 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:54:12 (Log.java:33)  Maximizing the Window
+2021-02-14 12:54:12 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:54:16 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:54:18 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:54:18 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:54:19 (Log.java:33)  Clicking on Users
+2021-02-14 12:54:23 (Log.java:33)  Searching user by Username
+2021-02-14 12:54:24 (Log.java:33)  Switching to next tab
+2021-02-14 12:55:37 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:55:42 (Log.java:33)  Maximizing the Window
+2021-02-14 12:55:42 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:55:46 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:55:48 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:55:48 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:55:48 (Log.java:33)  Clicking on Users
+2021-02-14 12:55:52 (Log.java:33)  Searching user by Username
+2021-02-14 12:55:54 (Log.java:33)  Switching to next tab
+2021-02-14 12:57:48 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 12:57:53 (Log.java:33)  Maximizing the Window
+2021-02-14 12:57:53 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 12:57:57 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 12:57:59 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 12:57:59 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 12:58:00 (Log.java:33)  Clicking on Users
+2021-02-14 12:58:04 (Log.java:33)  Searching user by Username
+2021-02-14 12:58:05 (Log.java:33)  Switching to next tab
+2021-02-14 13:03:31 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:03:36 (Log.java:33)  Maximizing the Window
+2021-02-14 13:03:36 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:03:40 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:03:42 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:03:42 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:03:43 (Log.java:33)  Clicking on Users
+2021-02-14 13:03:46 (Log.java:33)  Searching user by Username
+2021-02-14 13:03:48 (Log.java:33)  Switching to next tab
+2021-02-14 13:05:21 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:05:26 (Log.java:33)  Maximizing the Window
+2021-02-14 13:05:26 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:05:30 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:05:32 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:05:32 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:05:33 (Log.java:33)  Clicking on Users
+2021-02-14 13:05:36 (Log.java:33)  Searching user by Username
+2021-02-14 13:05:38 (Log.java:33)  Switching to next tab
+2021-02-14 13:07:17 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:07:17 (Log.java:33)  Closing the Browser
+2021-02-14 13:07:37 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:07:41 (Log.java:33)  Maximizing the Window
+2021-02-14 13:07:41 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:07:45 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:07:48 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:07:48 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:07:48 (Log.java:33)  Clicking on Users
+2021-02-14 13:07:52 (Log.java:33)  Searching user by Username
+2021-02-14 13:07:54 (Log.java:33)  Switching to next tab
+2021-02-14 13:10:01 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:10:01 (Log.java:33)  Closing the Browser
+2021-02-14 13:13:02 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:13:07 (Log.java:33)  Maximizing the Window
+2021-02-14 13:13:07 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:13:11 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:13:14 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:13:14 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:13:14 (Log.java:33)  Clicking on Users
+2021-02-14 13:13:18 (Log.java:33)  Searching user by Username
+2021-02-14 13:13:20 (Log.java:33)  Switching to next tab
+2021-02-14 13:14:04 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:14:04 (Log.java:33)  Closing the Browser
+2021-02-14 13:14:17 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:14:22 (Log.java:33)  Maximizing the Window
+2021-02-14 13:14:22 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:14:26 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:14:28 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:14:29 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:14:29 (Log.java:33)  Clicking on Users
+2021-02-14 13:14:33 (Log.java:33)  Searching user by Username
+2021-02-14 13:14:34 (Log.java:33)  Switching to next tab
+2021-02-14 13:27:09 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:27:09 (Log.java:33)  Closing the Browser
+2021-02-14 13:27:23 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:27:27 (Log.java:33)  Maximizing the Window
+2021-02-14 13:27:27 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:27:30 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:27:33 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:27:33 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:27:34 (Log.java:33)  Clicking on Users
+2021-02-14 13:27:38 (Log.java:33)  Searching user by Username
+2021-02-14 13:27:39 (Log.java:33)  Switching to next tab
+2021-02-14 13:27:40 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:27:40 (Log.java:33)  Closing the Browser
+2021-02-14 13:28:35 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:28:39 (Log.java:33)  Maximizing the Window
+2021-02-14 13:28:40 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:28:43 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:28:45 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:28:45 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:28:46 (Log.java:33)  Clicking on Users
+2021-02-14 13:28:49 (Log.java:33)  Searching user by Username
+2021-02-14 13:28:51 (Log.java:33)  Switching to next tab
+2021-02-14 13:31:15 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:31:15 (Log.java:33)  Closing the Browser
+2021-02-14 13:33:13 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:33:18 (Log.java:33)  Maximizing the Window
+2021-02-14 13:33:18 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:33:22 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:33:24 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:33:24 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:33:25 (Log.java:33)  Clicking on Users
+2021-02-14 13:33:29 (Log.java:33)  Searching user by Username
+2021-02-14 13:33:30 (Log.java:33)  Switching to next tab
+2021-02-14 13:36:21 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:36:21 (Log.java:33)  Closing the Browser
+2021-02-14 13:36:35 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:36:40 (Log.java:33)  Maximizing the Window
+2021-02-14 13:36:40 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:36:44 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:36:46 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:36:46 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:36:47 (Log.java:33)  Clicking on Users
+2021-02-14 13:36:51 (Log.java:33)  Searching user by Username
+2021-02-14 13:36:52 (Log.java:33)  Switching to next tab
+2021-02-14 13:39:12 (Log.java:33)  https://test-b-collaterate.net/siteadmin/users/list
+2021-02-14 13:39:12 (Log.java:33)  Closing the Browser
+2021-02-14 13:39:30 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:39:34 (Log.java:33)  Maximizing the Window
+2021-02-14 13:39:34 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:39:38 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:39:40 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:39:40 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:39:41 (Log.java:33)  Clicking on Users
+2021-02-14 13:39:45 (Log.java:33)  Searching user by Username
+2021-02-14 13:39:46 (Log.java:33)  Switching to next tab
+2021-02-14 13:40:30 (Log.java:33)  https://edgewood.test-b-collaterate.net/
+2021-02-14 13:40:30 (Log.java:33)  Closing the Browser
+2021-02-14 13:41:23 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 13:41:27 (Log.java:33)  Maximizing the Window
+2021-02-14 13:41:27 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 13:41:33 (Log.java:33)  Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+2021-02-14 13:41:35 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 13:41:35 (Log.java:33)  Searching for Edgewood Print Store
+2021-02-14 13:41:37 (Log.java:33)  Clicking on Users
+2021-02-14 13:41:40 (Log.java:33)  Searching user by Username
+2021-02-14 13:41:41 (Log.java:33)  Switching to next tab
+2021-02-14 13:41:44 (Log.java:33)  Closing the Browser
+2021-02-14 14:03:42 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 14:03:45 (Log.java:33)  Maximizing the Window
+2021-02-14 14:03:46 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 14:03:49 (Log.java:33)  Executing : TBG.Collaterate.TC_7_SearchUser_LevelGroup
+2021-02-14 14:03:52 (Log.java:33)  Logged in to Collaterate Successfully
+2021-02-14 14:03:52 (Log.java:33)  Searching for Level Group Store
+2021-02-14 14:03:53 (Log.java:33)  Clicking on Users
+2021-02-14 14:03:57 (Log.java:33)  Searching user by Username
+2021-02-14 14:05:24 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 14:05:27 (Log.java:33)  Maximizing the Window
+2021-02-14 14:05:28 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 14:05:31 (Log.java:33)  Executing : TBG.Collaterate.TC_7_SearchUser_LevelGroup
+2021-02-14 14:05:34 (Log.java:33)  Logged in to Collaterate Successfully
+2021-02-14 14:05:34 (Log.java:33)  Searching for Level Group Store
+2021-02-14 14:05:34 (Log.java:33)  Clicking on Users
+2021-02-14 14:05:38 (Log.java:33)  Searching user by Username
+2021-02-14 14:05:39 (Log.java:33)  Closing the Browser
+2021-02-14 14:11:52 (Log.java:33)  Executing the Test case in-- CHROME --browser
+2021-02-14 14:11:55 (Log.java:33)  Maximizing the Window
+2021-02-14 14:11:56 (Log.java:33)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-14 14:11:59 (Log.java:33)  Executing : TBG.Collaterate.TC_8_LevelGroup_ImpersonateUser
+2021-02-14 14:12:02 (Log.java:33)  Logged in to Collatrate Successfully
+2021-02-14 14:12:02 (Log.java:33)  Searching for Level Group Store
+2021-02-14 14:12:03 (Log.java:33)  Clicking on Users
+2021-02-14 14:12:06 (Log.java:33)  Searching user by Username
+2021-02-14 14:12:08 (Log.java:33)  Switching to next tab
+2021-02-14 14:12:09 (Log.java:33)  Successfully Validated the LevelGroup Url
+2021-02-14 14:12:09 (Log.java:33)  Successfully Validated the Username
+2021-02-14 14:12:09 (Log.java:33)  Closing the Browser

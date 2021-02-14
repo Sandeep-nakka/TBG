@@ -1,0 +1,325 @@
+INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: http://www.google.com
+    INFO main TraceLog - Testing
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Testing
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Closing the Browser
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Executing the Test case in-- CHROME --browser
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Maximizing the Window
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Closing the Browser
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Executing the Test case in-- CHROME --browser
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Maximizing the Window
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Closing the Browser
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Executing the Test case in-- CHROME --browser
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Maximizing the Window
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO TestNG-test=Collaterate/src/test/java/TBG/Collaterate-1 TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_5_SearchUser_Edgewood
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://test-b-collaterate.net/siteadmin/users/list
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - https://edgewood.test-b-collaterate.net/
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_7_SearchUser_LevelGroup
+    INFO main TraceLog - Logged in to Collaterate Successfully
+    INFO main TraceLog - Searching for Level Group Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_7_SearchUser_LevelGroup
+    INFO main TraceLog - Logged in to Collaterate Successfully
+    INFO main TraceLog - Searching for Level Group Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_8_LevelGroup_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Level Group Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Successfully Validated the LevelGroup Url
+    INFO main TraceLog - Successfully Validated the Username
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.LoginPageTest
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_5_SearchUser_Edgewood
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_6_Edgewood_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Edgewood Print Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Successfully Validated the EdgeWood Url
+    INFO main TraceLog - Successfully Validated the Username
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_7_SearchUser_LevelGroup
+    INFO main TraceLog - Logged in to Collaterate Successfully
+    INFO main TraceLog - Searching for Level Group Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Closing the Browser
+    INFO main TraceLog - Executing the Test case in-- CHROME --browser
+    INFO main TraceLog - Maximizing the Window
+    INFO main TraceLog - Opening the URL: https://test-b-collaterate.net/login
+    INFO main TraceLog - Executing : TBG.Collaterate.TC_8_LevelGroup_ImpersonateUser
+    INFO main TraceLog - Logged in to Collatrate Successfully
+    INFO main TraceLog - Searching for Level Group Store
+    INFO main TraceLog - Clicking on Users
+    INFO main TraceLog - Searching user by Username
+    INFO main TraceLog - Switching to next tab
+    INFO main TraceLog - Successfully Validated the LevelGroup Url
+    INFO main TraceLog - Successfully Validated the Username
+    INFO main TraceLog - Closing the Browser
+    
