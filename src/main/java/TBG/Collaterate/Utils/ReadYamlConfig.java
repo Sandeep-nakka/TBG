@@ -38,10 +38,19 @@ public class ReadYamlConfig {
 		return getConfig().get("url");
 	}
 	public static String getEmail(){
-		return getConfig().get("email");
+		return getConfig().get("username");
 	}
+
 	public static String getPassword(){
-		return getConfig().get("password");}
+		return getConfig().get("password");
+	}
+	public static String getEdgeWoodUrl(){
+		return getConfig().get("edgewoodurl");
+	}
+	public static  String getLevelGroupUrl(){
+		return getConfig().get("levelgroupurl");
+	}
+
 		
 }
 

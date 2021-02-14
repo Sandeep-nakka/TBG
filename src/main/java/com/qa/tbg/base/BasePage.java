@@ -58,7 +58,7 @@ public class BasePage {
 	@AfterClass
 	public void closebrowser(){
 			Log.info("Closing the Browser");
-		driver.close();
+			driver.quit();
 	}
 
 		

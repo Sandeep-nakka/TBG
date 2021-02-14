@@ -25,7 +25,7 @@ public class ExtentReportListner extends BasePage implements ITestListener{
 	}
 
 	public void onTestSuccess(ITestResult result) {
-		extentTest.get().log(Status.PASS, result.getMethod().getMethodName()+"Test is pass");
+		extentTest.get().log(Status.PASS, result.getMethod().getMethodName()+" -Passed");
 
 	}
 

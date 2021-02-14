@@ -16,6 +16,7 @@ public class LoginPage {
      By email = By.id("USERNAMEEF");
 	 By password = By.id("PASSWORDEF");
 	 By signin= By.id("signIn");
+	 By loggedinuser=By.xpath("//a[normalize-space()='Melissa Wylie']");
 	
 
 	// 2. Constructor of page class:
@@ -28,19 +29,24 @@ public class LoginPage {
 
 		// 3. page actions/methods:
 		public   String getPageTitle() {
-			return elementActions.doGetPageTitle(Constants.LOGIN_PAGE_TITLE);
+			return elementActions.doGetPageTitle();
 			
 		}
 
-	    public  void doLogin(String emailId, String pwd) {
+	    public  void doLogin(String emailId, String pwd) throws InterruptedException {
 			 System.out.println("entering doLogin");
+			 Thread.sleep(300);
 		     elementActions.doSendKeys(email, emailId);
 			 elementActions.doSendKeys(password, pwd);
 			 elementActions.doClick(signin);
-
 			
 		} 
+	public String getCurrentUrl(){
+		return elementActions.doGetCurrentUrl();
+}
+	public String getLoggeduser(){
+		return elementActions.doGetText(loggedinuser);
 
-	
+	}
 
 }

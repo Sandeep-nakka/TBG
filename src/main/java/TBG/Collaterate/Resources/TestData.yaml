@@ -1,7 +1,9 @@
 name: TEST
-url: http://www.google.com
-username:
-password:
+url: https://test-b-collaterate.net/login
+edgewoodurl: https://edgewood.test-b-collaterate.net/
+levelgroupurl: https://thelevelgroup.test-b-collaterate.net/
+username: melissa.wylie@thebernardgroup.com
+password: welcome
 browser: chrome
 
 
