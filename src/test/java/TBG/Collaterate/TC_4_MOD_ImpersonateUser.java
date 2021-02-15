@@ -28,13 +28,13 @@ public class TC_4_MOD_ImpersonateUser extends BasePage {
 	        Log.info("Clicking on Users");
 	        homepage.clickusertab();
 	        Log.info("Searching user by Username");
-	        homepage.searchuser_username("Andrew Gonzalez");
+	        homepage.searchuser_username("agonzal3");
 	        homepage.clickImpersonate();
 	        Log.info("Switching to next tab");
 	        homepage.switchtochildwindow();
 	        Assert.assertEquals(homepage.getCurrentUrl(),ReadYamlConfig.getMODUrl());
-	        Log.info("Successfully Validated the Anytime Fitness Url");
-	        Assert.assertEquals(homepage.getAnytimeFitnessUsername(),"Andrew Gonzalez");
+	        Log.info("Successfully Validated MOD Url");
+	        Assert.assertEquals(homepage.getMODUsername(),"Andrew Gonzalez");
 	        Log.info("Successfully Validated the Username");
 
 	    }
