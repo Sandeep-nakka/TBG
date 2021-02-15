@@ -50,6 +50,12 @@ public class ReadYamlConfig {
 	public static  String getLevelGroupUrl(){
 		return getConfig().get("levelgroupurl");
 	}
+	public static String getAnytimeFitnessUrl(){
+		return getConfig().get("anytimefitnessurl");
+	}
+	public static  String getMODUrl(){
+		return getConfig().get("modurl");
+	}
 
 		
 }

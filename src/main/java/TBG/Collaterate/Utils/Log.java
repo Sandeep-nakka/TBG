@@ -1,10 +1,11 @@
 package TBG.Collaterate.Utils;
+import java.io.File;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+
 import org.testng.Assert;
 import org.testng.Reporter;
-
-import java.io.File;
 
 public class Log {
     private static Logger log;

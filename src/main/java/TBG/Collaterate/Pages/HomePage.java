@@ -19,6 +19,8 @@ public class HomePage {
     By Impersonateicon=By.xpath("//*[contains(@class,'impersonate')]");
     By Getsearchusername=By.xpath("//tr[@class='userStatusIsActive']/td[2]");
     By EdgeLevelUsername=By.xpath("//span[@class='userFullName']");
+    By AnytimeFitnessUsername=By.xpath("//span[@class='userFullName']");
+    By MODUsername=By.xpath("//span[@class='userFullName']");
 
     public HomePage(WebDriver driver)
     {
@@ -59,6 +61,12 @@ public class HomePage {
     }
     public  String getLevelGroupUsername(){
         return elementActions.doGetText(EdgeLevelUsername);
+    }
+    public  String getAnytimeFitnessUsername(){
+        return elementActions.doGetText(AnytimeFitnessUsername);
+    }
+    public  String getMODUsername(){
+        return elementActions.doGetText(MODUsername);
     }
     public void switchdefaultcontent(){
         elementActions.getDefaultContent();
