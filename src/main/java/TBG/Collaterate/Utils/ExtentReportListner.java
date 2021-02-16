@@ -37,7 +37,6 @@ public class ExtentReportListner extends BasePage implements ITestListener{
 	}
 
 	public void onTestFailure(ITestResult result) {
-		WebDriver driver = null;
 		String excepionMessage= Arrays.toString(result.getThrowable().getStackTrace());
 		extentTest.get().fail("<details>" + "<summary>" + "<b>" + "<font color=" + "red>" + "Exception Occurred:Click to see"
 				+ "</font>" + "</b >" + "</summary>" +excepionMessage.replaceAll(",", "<br>")+"</details>"+" \n");

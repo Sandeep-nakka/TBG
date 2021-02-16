@@ -20,7 +20,7 @@ import org.testng.annotations.AfterClass;
 public class BasePage {
 	
 
-		public WebDriver driver;
+		public static WebDriver driver;
 		public static String browserName;
 		public static String screenshotName;
 
@@ -51,11 +51,10 @@ public class BasePage {
 		}
 
 	public String getScreenShotPath(String testCaseName, WebDriver driver) throws IOException {
-		TakesScreenshot ts=(TakesScreenshot) driver;
-		File source =ts.getScreenshotAs(OutputType.FILE);
+		File source =((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		Date d = new Date();
 		screenshotName = testCaseName+"_"+d.toString().replace(":", "_").replace(" ", "_") + ".jpg";
-		String destinationFile = System.getProperty("user.dir")+"/reports/"+screenshotName;
+		String destinationFile = System.getProperty("user.dir")+"/Reports/"+screenshotName;
 		FileUtils.copyFile(source,new File(destinationFile));
 		return destinationFile;
 	}
