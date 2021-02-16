@@ -17,6 +17,8 @@ public class LoginPage {
 	 By password = By.id("PASSWORDEF");
 	 By signin= By.id("signIn");
 	 By loggedinuser=By.xpath("//a[normalize-space()='Melissa Wylie']");
+	 By userMessageContent=By.id("userMessageContent");
+	 By alerterror=By.xpath("//li[normalize-space()='Email is required']");
 	
 
 	// 2. Constructor of page class:
@@ -47,6 +49,12 @@ public class LoginPage {
 	public String getLoggeduser(){
 		return elementActions.doGetText(loggedinuser);
 
+	}
+	public String getusermessage(){
+		return elementActions.doGetText(userMessageContent);
+	}
+	public String geterrorText() {
+		return elementActions.doGetText(alerterror);
 	}
 
 }
