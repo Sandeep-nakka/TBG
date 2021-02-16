@@ -2,17 +2,21 @@ package com.qa.tbg.base;
 
 
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 
 import java.util.Set;
 
 public class ElementActions {
 
  WebDriver driver;
+ Actions action;
 
 
 
   public ElementActions(WebDriver driver)
-  { this.driver=driver; }
+  { this.driver=driver;
+  action = new Actions(this.driver);
+  }
  
   
   public  WebElement getElement(By locator) {
@@ -26,6 +30,9 @@ public class ElementActions {
 	
 	public  void doSendKeys(By locator , String text){
 		getElement(locator).sendKeys(text);
+	}
+	public void doActionsSendKeys(By locator, String value) {
+		action.sendKeys(getElement(locator), value).build().perform();
 	}
 	 
 	

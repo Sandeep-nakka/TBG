@@ -29,7 +29,7 @@ public class HomePage {
     }
 
     public void doSiteSearch(String sitesearch){
-        elementActions.doSendKeys(SiteSearchid,sitesearch);
+        elementActions.doActionsSendKeys(SiteSearchid,sitesearch);
         elementActions.doClick(Selectfirstid);
 
     }
