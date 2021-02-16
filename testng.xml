@@ -6,15 +6,16 @@
     </listeners>
     <test thread-count="5" name="Collaterate/src/test/java/TBG/Collaterate">
             <classes>
-                <class name="TBG.Collaterate.LoginPageTest"/>
-                <class name="TBG.Collaterate.TC_1_SearchUser_AnytimeFitness"/>
-                <class name="TBG.Collaterate.TC_2_AnytimeFitness_ImpersonateUser"/>
-                <class name="TBG.Collaterate.TC_3_SearchUser_MOD"/>
-                <class name="TBG.Collaterate.TC_4_MOD_ImpersonateUser"/>
-                <class name="TBG.Collaterate.TC_5_SearchUser_Edgewood"/>
-                <class name="TBG.Collaterate.TC_6_Edgewood_ImpersonateUser"/>
-                <class name="TBG.Collaterate.TC_7_SearchUser_LevelGroup"/>
-                <class name="TBG.Collaterate.TC_8_LevelGroup_ImpersonateUser"/>
+                <class name="TBG.Collaterate.TC1_LoginPageTest"/>
+                <class name="TBG.Collaterate.TC2_Invalid_Login"/>
+                <class name="TBG.Collaterate.TC_3_SearchUser_AnytimeFitness"/>
+                <class name="TBG.Collaterate.TC_4_AnytimeFitness_ImpersonateUser"/>
+                <class name="TBG.Collaterate.TC_5_SearchUser_MOD"/>
+                <class name="TBG.Collaterate.TC_6_MOD_ImpersonateUser"/>
+                <class name="TBG.Collaterate.TC_7_SearchUser_Edgewood"/>
+                <class name="TBG.Collaterate.TC_8_Edgewood_ImpersonateUser"/>
+                <class name="TBG.Collaterate.TC_9_SearchUser_LevelGroup"/>
+                <class name="TBG.Collaterate.TC_10_LevelGroup_ImpersonateUser"/>
         </classes>
     </test>
 </suite>
