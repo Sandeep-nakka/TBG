@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.util.Locale;
 
-public class TC1_LoginPageTest extends BasePage{
+public class TC_1_LoginPageTest extends BasePage{
 	WebDriver driver;
 	LoginPage loginPage;
 

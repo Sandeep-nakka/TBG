@@ -6,8 +6,8 @@
     </listeners>
     <test thread-count="5" name="Collaterate/src/test/java/TBG/Collaterate">
             <classes>
-                <class name="TBG.Collaterate.TC1_LoginPageTest"/>
-                <class name="TBG.Collaterate.TC2_Invalid_Login"/>
+                <class name="TBG.Collaterate.TC_1_LoginPageTest"/>
+                <class name="TBG.Collaterate.TC_2_Invalid_Login_EmptyUsername"/>
                 <class name="TBG.Collaterate.TC_3_SearchUser_AnytimeFitness"/>
                 <class name="TBG.Collaterate.TC_4_AnytimeFitness_ImpersonateUser"/>
                 <class name="TBG.Collaterate.TC_5_SearchUser_MOD"/>

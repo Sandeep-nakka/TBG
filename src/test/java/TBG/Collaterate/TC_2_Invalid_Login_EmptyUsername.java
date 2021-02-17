@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TC2_1_Invalid_Login_EmptyUsername extends BasePage{
+public class TC_2_Invalid_Login_EmptyUsername extends BasePage{
 	WebDriver driver;
 	LoginPage loginPage;
 
