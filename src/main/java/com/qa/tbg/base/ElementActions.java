@@ -78,4 +78,8 @@ public void switchwindow(String window){
   	driver.switchTo().window(window);
 }
 
+public void waitelementtoload() throws InterruptedException {
+  	Thread.sleep(400);
+}
+
 }

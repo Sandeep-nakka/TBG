@@ -45,7 +45,7 @@ public class BasePage {
 			driver.manage().deleteAllCookies();
 			Log.info("Opening the URL: "+ReadYamlConfig.geturl());
 			driver.get(ReadYamlConfig.geturl());
-			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+			driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 			return driver;
 
 		}

@@ -32,8 +32,8 @@ public class TC_8_Edgewood_ImpersonateUser extends BasePage {
         homepage.switchtochildwindow();
         Assert.assertEquals(homepage.getCurrentUrl(),ReadYamlConfig.getEdgeWoodUrl());
         Log.info("Successfully Validated the EdgeWood Url");
-        Assert.assertEquals(homepage.getEdgewoodUsername(),"Yumi Ogawa");
-        Log.info("Successfully Validated the Username");
+        Assert.assertEquals(homepage.getEdgewoodUsername(),"YumiOgawa");
+        //Log.info("Successfully Validated the Username-Yumi Ogawa");
 
     }
 }

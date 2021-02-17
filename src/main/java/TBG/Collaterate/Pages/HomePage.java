@@ -28,16 +28,19 @@ public class HomePage {
         elementActions = new ElementActions(this.driver);
     }
 
-    public void doSiteSearch(String sitesearch){
+    public void doSiteSearch(String sitesearch) throws InterruptedException {
         elementActions.doActionsSendKeys(SiteSearchid,sitesearch);
+        elementActions.waitelementtoload();
         elementActions.doClick(Selectfirstid);
 
     }
-    public void clickusertab(){
+    public void clickusertab() throws InterruptedException {
+        elementActions.waitelementtoload();
         elementActions.doClick(Usertab);
     }
-    public void searchuser_username(String user){
+    public void searchuser_username(String user) throws InterruptedException {
         elementActions.doSendKeys(SearchUsername,user);
+        elementActions.waitelementtoload();
         elementActions.doClick(SearchButton);
     }
     public void clickImpersonate(){

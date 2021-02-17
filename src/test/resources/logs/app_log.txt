@@ -323,3 +323,110 @@
 2021-02-14 14:17:29 (Log.java:33)  Successfully Validated the LevelGroup Url
 2021-02-14 14:17:29 (Log.java:33)  Successfully Validated the Username
 2021-02-14 14:17:29 (Log.java:33)  Closing the Browser
+2021-02-17 14:44:41 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:44:45 (Log.java:34)  Maximizing the Window
+2021-02-17 14:44:45 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:44:49 (Log.java:34)  Executing : TBG.Collaterate.TC_1_LoginPageTest
+2021-02-17 14:44:56 (Log.java:34)  Closing the Browser
+2021-02-17 14:44:57 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:44:59 (Log.java:34)  Maximizing the Window
+2021-02-17 14:44:59 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:45:03 (Log.java:34)  Executing : TBG.Collaterate.TC_2_Invalid_Login_EmptyUsername
+2021-02-17 14:45:05 (Log.java:34)  Email is required
+2021-02-17 14:45:05 (Log.java:28)  TBG.Collaterate.TC_2_Invalid_Login_EmptyUsername : Passed Successfully
+2021-02-17 14:45:05 (Log.java:34)  Closing the Browser
+2021-02-17 14:45:06 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:45:08 (Log.java:34)  Maximizing the Window
+2021-02-17 14:45:08 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:45:13 (Log.java:34)  Executing : TBG.Collaterate.TC_3_SearchUser_AnytimeFitness
+2021-02-17 14:45:17 (Log.java:34)  Logged in to Collaterate Successfully
+2021-02-17 14:45:17 (Log.java:34)  Searching for Anytime Fitness Group Store
+2021-02-17 14:45:19 (Log.java:34)  Clicking on Users
+2021-02-17 14:45:25 (Log.java:34)  Searching user by Username
+2021-02-17 14:45:27 (Log.java:34)  Closing the Browser
+2021-02-17 14:45:28 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:45:30 (Log.java:34)  Maximizing the Window
+2021-02-17 14:45:30 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:45:35 (Log.java:34)  Executing : TBG.Collaterate.TC_4_AnytimeFitness_ImpersonateUser
+2021-02-17 14:45:38 (Log.java:34)  Logged in to Collatrate Successfully
+2021-02-17 14:45:38 (Log.java:34)  Searching for Anytime Fitness Store
+2021-02-17 14:45:42 (Log.java:34)  Clicking on Users
+2021-02-17 14:45:44 (Log.java:34)  Searching user by Username
+2021-02-17 14:45:46 (Log.java:34)  Switching to next tab
+2021-02-17 14:45:49 (Log.java:34)  Successfully Validated the Anytime Fitness Url
+2021-02-17 14:45:49 (Log.java:34)  Successfully Validated the Username
+2021-02-17 14:45:49 (Log.java:34)  Closing the Browser
+2021-02-17 14:45:50 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:45:52 (Log.java:34)  Maximizing the Window
+2021-02-17 14:45:53 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:45:57 (Log.java:34)  Executing : TBG.Collaterate.TC_5_SearchUser_MOD
+2021-02-17 14:46:01 (Log.java:34)  Logged in to Collaterate Successfully
+2021-02-17 14:46:01 (Log.java:34)  Searching for  MOD store
+2021-02-17 14:46:02 (Log.java:34)  Clicking on Users
+2021-02-17 14:46:06 (Log.java:34)  Searching user by Username
+2021-02-17 14:46:08 (Log.java:34)  Closing the Browser
+2021-02-17 14:46:09 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:46:10 (Log.java:34)  Maximizing the Window
+2021-02-17 14:46:11 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:46:17 (Log.java:34)  Executing : TBG.Collaterate.TC_6_MOD_ImpersonateUser
+2021-02-17 14:46:22 (Log.java:34)  Logged in to Collatrate Successfully
+2021-02-17 14:46:22 (Log.java:34)  Searching for MOD Store
+2021-02-17 14:46:23 (Log.java:34)  Clicking on Users
+2021-02-17 14:46:28 (Log.java:34)  Searching user by Username
+2021-02-17 14:46:30 (Log.java:34)  Switching to next tab
+2021-02-17 14:46:33 (Log.java:34)  Successfully Validated MOD Url
+2021-02-17 14:46:33 (Log.java:34)  Successfully Validated the Username
+2021-02-17 14:46:33 (Log.java:34)  Closing the Browser
+2021-02-17 14:46:34 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:46:36 (Log.java:34)  Maximizing the Window
+2021-02-17 14:46:36 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:46:44 (Log.java:34)  Executing : TBG.Collaterate.TC_7_SearchUser_Edgewood
+2021-02-17 14:46:50 (Log.java:34)  Logged in to Collatrate Successfully
+2021-02-17 14:46:50 (Log.java:34)  Searching for Edgewood Print Store
+2021-02-17 14:46:51 (Log.java:34)  Clicking on Users
+2021-02-17 14:46:58 (Log.java:34)  Searching user by Username
+2021-02-17 14:46:59 (Log.java:34)  Closing the Browser
+2021-02-17 14:47:00 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:47:02 (Log.java:34)  Maximizing the Window
+2021-02-17 14:47:02 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:47:10 (Log.java:34)  Executing : TBG.Collaterate.TC_8_Edgewood_ImpersonateUser
+2021-02-17 14:47:16 (Log.java:34)  Logged in to Collatrate Successfully
+2021-02-17 14:47:16 (Log.java:34)  Searching for Edgewood Print Store
+2021-02-17 14:47:17 (Log.java:34)  Clicking on Users
+2021-02-17 14:47:23 (Log.java:34)  Searching user by Username
+2021-02-17 14:47:25 (Log.java:34)  Switching to next tab
+2021-02-17 14:47:34 (Log.java:34)  Successfully Validated the EdgeWood Url
+2021-02-17 14:47:34 (Log.java:34)  Successfully Validated the Username
+2021-02-17 14:47:34 (Log.java:34)  Closing the Browser
+2021-02-17 14:47:35 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:47:36 (Log.java:34)  Maximizing the Window
+2021-02-17 14:47:37 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:47:42 (Log.java:34)  Executing : TBG.Collaterate.TC_9_SearchUser_LevelGroup
+2021-02-17 14:47:45 (Log.java:34)  Logged in to Collaterate Successfully
+2021-02-17 14:47:45 (Log.java:34)  Searching for Level Group Store
+2021-02-17 14:47:47 (Log.java:34)  Clicking on Users
+2021-02-17 14:47:52 (Log.java:34)  Searching user by Username
+2021-02-17 14:47:54 (Log.java:34)  Closing the Browser
+2021-02-17 14:47:55 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:47:57 (Log.java:34)  Maximizing the Window
+2021-02-17 14:47:57 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:48:04 (Log.java:34)  Executing : TBG.Collaterate.TC_10_LevelGroup_ImpersonateUser
+2021-02-17 14:48:10 (Log.java:34)  Logged in to Collatrate Successfully
+2021-02-17 14:48:10 (Log.java:34)  Searching for Level Group Store
+2021-02-17 14:48:11 (Log.java:34)  Clicking on Users
+2021-02-17 14:48:17 (Log.java:34)  Searching user by Username
+2021-02-17 14:48:19 (Log.java:34)  Switching to next tab
+2021-02-17 14:48:22 (Log.java:34)  Successfully Validated the LevelGroup Url
+2021-02-17 14:48:22 (Log.java:34)  Successfully Validated the Username
+2021-02-17 14:48:22 (Log.java:34)  Closing the Browser
+2021-02-17 14:50:36 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-17 14:50:40 (Log.java:34)  Maximizing the Window
+2021-02-17 14:50:40 (Log.java:34)  Opening the URL: https://test-b-collaterate.net/login
+2021-02-17 14:50:45 (Log.java:34)  Executing : TBG.Collaterate.TC_8_Edgewood_ImpersonateUser
+2021-02-17 14:50:51 (Log.java:34)  Logged in to Collatrate Successfully
+2021-02-17 14:50:51 (Log.java:34)  Searching for Edgewood Print Store
+2021-02-17 14:50:52 (Log.java:34)  Clicking on Users
+2021-02-17 14:50:58 (Log.java:34)  Searching user by Username
+2021-02-17 14:51:00 (Log.java:34)  Switching to next tab
+2021-02-17 14:51:07 (Log.java:34)  Successfully Validated the EdgeWood Url
+2021-02-17 14:51:07 (Log.java:34)  Closing the Browser

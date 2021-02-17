@@ -39,14 +39,18 @@ public class LoginPage {
 			 System.out.println("entering doLogin");
 			 Thread.sleep(300);
 		     elementActions.doSendKeys(email, emailId);
+		     elementActions.waitelementtoload();
 			 elementActions.doSendKeys(password, pwd);
+			 elementActions.waitelementtoload();
 			 elementActions.doClick(signin);
+			 elementActions.waitelementtoload();
 			
 		} 
 	public String getCurrentUrl(){
 		return elementActions.doGetCurrentUrl();
 }
-	public String getLoggeduser(){
+	public String getLoggeduser() throws InterruptedException {
+		elementActions.waitelementtoload();
 		return elementActions.doGetText(loggedinuser);
 
 	}

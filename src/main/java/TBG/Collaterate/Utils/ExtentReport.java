@@ -25,8 +25,9 @@ public class ExtentReport {
 		extent=new ExtentReports();
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("OS", System.getProperty("os.name"));
+		extent.setSystemInfo("Browser", ReadYamlConfig.getbrowser().toUpperCase());
 		extent.setSystemInfo("Organization", "The Bernard Group");
-		extent.setSystemInfo("Tester", "Jenkin User");
+		extent.setSystemInfo("Tester", "VIJAYA");
 
 		return extent;
 	}
